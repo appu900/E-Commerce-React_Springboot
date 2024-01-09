@@ -30,7 +30,7 @@ public class AppConfig {
 
                 cfg.setAllowedOrigins(Arrays.asList(
 
-                        "http://localhost:3000", "http://localhost:4000", "http://localhost:4200"
+                        "http://localhost:3000", "http://localhost:4000", "http://localhost:4200","http://localhost:3001"
 
                 ));
                 //cfg.setAllowedMethods(Arrays.asList("GET", "POST","DELETE","PUT"));
